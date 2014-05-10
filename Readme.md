@@ -1,3 +1,3 @@
 Readme for DIGH Teaching - Notes
 
-This folder contains various weekly notes for DIGH course.
+This repository contains various weekly notes for DIGH courses.
