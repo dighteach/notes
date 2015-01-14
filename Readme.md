@@ -1,4 +1,4 @@
-### Readme for DIGH Teaching - Notes
+### Readme - Notes
 
 This repository contains various weekly notes for DIGH courses.
 
